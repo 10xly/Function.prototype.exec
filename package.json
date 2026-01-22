@@ -1,0 +1,32 @@
+{
+  "name": "function.prototype.exec",
+  "version": "1.0.0",
+  "description": "Function.prototype.exec",
+  "keywords": [
+    "exec"
+  ],
+  "homepage": "https://github.com/10xly/Function.prototype.exec#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/Function.prototype.exec/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/Function.prototype.exec.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "arguments-to-array": "^1.0.0",
+    "es-logical-not-operator": "^1.0.0",
+    "es-logical-optional-chaining": "^1.0.0",
+    "function.apply-x": "^1.0.0",
+    "is-function-x": "^3.3.0",
+    "lolite.stubnull": "^1.1.16",
+    "uncurry-x": "^1.0.1"
+  }
+}
